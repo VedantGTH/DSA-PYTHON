@@ -1,3 +1,15 @@
+"""
+LeetCode 1: Two Sum
+Difficulty: Easy
+Approach: Two Pointer
+Time Complexity: O(nlogn)
+Space Complexity: O(1)
+"""
+
+
+
+
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
